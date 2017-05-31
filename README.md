@@ -83,3 +83,14 @@ final String name = "LicensesDialog";
 
 ## [PhotoView](https://github.com/chrisbanes/PhotoView)
 PhotoViewは、Zooming Android ImageViewを簡単に使用できるようにすることを目的としています。
+
+# 下タブ
+## [roughike/BottomBar](https://github.com/roughike/BottomBar)
+A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+## [aurelhubert/AHBottomNavigation](https://github.com/aurelhubert/ahbottomnavigation)
+Library to implement the Bottom Navigation component from Material Design guidelines (minSdkVersion=14).
+
+## [Ashok-Varma/BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)
+This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations
+
